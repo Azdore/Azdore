@@ -33,7 +33,7 @@
   />
   <img
     alt="Top Langs"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azdore&layout=compact&theme=transparent&hide_border=true&hide=html"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ton-username&layout=compact&theme=transparent&hide_border=true&hide=html"
     height="165"
   />
 </p>
