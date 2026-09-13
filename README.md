@@ -1,47 +1,100 @@
-<!-- Header -->
-<h1 align="center">Hello, i am Lowan 👋</h1>
-<p align="center">42 Student · Nice · Passionné de bas niveau</p>
+<h1 align="center">Hey, moi c'est Lowan 👋</h1>
 
-<!-- Badges rapides -->
 <p align="center">
-  <img alt="42" src="https://img.shields.io/badge/42-Nice-black?logo=42&logoColor=white" />
-  <img alt="OS" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
-  <img alt="Editor" src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=500&lines=Student+%40+42+Nice;C+%2F+C%2B%2B+enjoyer;Python+when+I+want+to+relax;Segfault+hunter+%F0%9F%90%9B" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/School-42%20Nice-000000?style=for-the-badge&logo=42&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-France-0055A4?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Azdore&style=for-the-badge&color=00BFFF" />
 </p>
 
 ---
 
-<h3>️Stack & Outils</h3>
-<p>
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img alt="ASM" src="https://img.shields.io/badge/Assembly-6E4C13" />
-  <img alt="Shell" src="https://img.shields.io/badge/Shell-4EAA25?logo=gnubash&logoColor=white" />
-  <img alt="Vim" src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white" />
+### 🧑‍💻 À propos
+
+\`\`\`c
+#include <stdio.h>
+
+typedef struct s_dev
+{
+    char    *name;
+    char    *school;
+    char    *langs[4];
+    int      coffee_per_day;
+}   t_dev;
+
+int main(void)
+{
+    t_dev me = {
+        .name = "Lowan",
+        .school = "42 Nice",
+        .langs = {"C", "C++", "Python", "Shell"},
+        .coffee_per_day = 5
+    };
+
+    printf("Welcome to my profile, %s!\n", me.name);
+    return (0);
+}
+\`\`\`
+
+- 🎓 Étudiant à **42 Nice** — piscine survécue, norme respectée (presque toujours)
+- ⚙️ Je code surtout en **C / C++**, et en **Python** pour aller vite
+- 🧠 J'aime le bas niveau : mémoire, pointeurs, algo, systèmes
+- 🐛 Mon meilleur ami : `valgrind --leak-check=full`
+- 📫 Ouvert aux collabs et aux projets fun
+
+---
+
+### 🛠️ Stack & outils
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,git,github,linux,vim,docker,vscode&theme=dark" />
 </p>
 
 ---
 
-<h3>GitHub</h3>
-<p>
-  <img
-    alt="Azdore's GitHub stats"
-    src="https://github-readme-stats.vercel.app/api?username=Azdore&show_icons=true&theme=transparent&hide_border=true"
-    height="165"
-  />
-  <img
-    alt="Top Langs"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ton-username&layout=compact&theme=transparent&hide_border=true&hide=html"
-    height="165"
-  />
+<details>
+<summary>⚡ <b>Random facts sur moi</b></summary>
+
+<br>
+
+- Je débug plus vite à 2h du mat qu'à 14h
+- `printf` reste mon debugger préféré, et j'assume
+- Un projet sans Makefile n'est pas un vrai projet
+- Tabs > spaces (la norme 42 a parlé)
+
+</details>
+
+<details>
+<summary>📊 <b>Mes stats GitHub</b></summary>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Azdore&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
-<h3>À propos</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azdore&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
-- 🎯 Objectif: Projets persos, C/Unix, algo
-- 📚 En cours: Minishell
-- ✉️ Contact: <a href="mailto:baudartlowan06@gmail.com">baudartlowan06@gmail.com</a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azdore&theme=tokyonight&hide_border=true" />
+</p>
+
+</details>
+
+---
+
+### 🤝 Me contacter
+
+<p align="center">
+  <a href="https://github.com/Azdore"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://profile.intra.42.fr/"><img src="https://img.shields.io/badge/Intra%2042-000000?style=for-the-badge&logo=42&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>« Il n'y a pas de bug, que des features non documentées. »</i></p>
 
 <sub>Made with ❤️ at 42</sub>
