@@ -93,6 +93,8 @@ int main(void)
 <p align="center">
   <a href="https://github.com/Azdore"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://profile.intra.42.fr/"><img src="https://img.shields.io/badge/Intra%2042-000000?style=for-the-badge&logo=42&logoColor=white" /></a>
+  <a href="https://www.instagram.com/l0w4n.6/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/lowan-baudart-a84406336"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>« Il n'y a pas de bug, que des features non documentées. »</i></p>
